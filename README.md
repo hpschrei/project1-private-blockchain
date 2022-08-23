@@ -16,7 +16,7 @@ This is the 1st project from the
             "dec": "68° 52' 56.9",
             "ra": "16h 29m 1.0s",
             "story": "Testing the story 4"
-		}
+    	}
     ```
 
 ## Libraries
@@ -65,4 +65,3 @@ You should see in your terminal a message indicating that the server is listenin
      ![Request: http://localhost:8000/submitstar](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca365d3_signing-message/signing-message.png)
 6. Retrieve Stars owned by me
     ![Request: http://localhost:8000/blocks/<WALLET_ADDRESS>](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/April/5ca362b9_retrieve-stars/retrieve-stars.png)
-# project1-private-blockchain
